@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rrrndz
-- 👀 I’m interested in 💻 🎾 🦕
+- 👀 I’m interested in 💻 🎾 👨🏼‍🏫
 - 🌱 I’m currently learning 🐍 <a href="https://www.ruby-lang.org" emoji-code="Ruby"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" height="12" /></a>
